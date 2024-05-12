@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @olehsau
-- I hope there will be many interesting repositories soon.
-- my email: olehsau@gmail.com
+- hello
+- student at UJ, Kraków PL
+- olehsau@gmail.com
+- https://www.linkedin.com/in/oleh-savchuk-42a950237/
