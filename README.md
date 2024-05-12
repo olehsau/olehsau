@@ -1,4 +1,4 @@
 - hello
 - I'm a Computer Science student at UJ, Kraków, PL
 - olehsau@gmail.com
-- https://www.linkedin.com/in/oleh-savchuk-42a950237/
+- https://www.linkedin.com/in/olehsau
